@@ -1,11 +1,8 @@
 # F0x-Rat-V1.0
 Android Remote Control
 
-![Screenshot_3](https://github.com/Fox-Rat/F0x-Rat-V1.0/assets/168817943/c31ead4f-9837-4697-8905-c1aed72301bf)
+https://t.me/Anonymous_S0orce
 
-![Screenshot_1](https://github.com/Fox-Rat/F0x-Rat-V1.0/assets/168817943/911190c8-d573-4f0c-8443-9a6c90bc77be)
-
-![Screenshot_2](https://github.com/Fox-Rat/F0x-Rat-V1.0/assets/168817943/802f1db4-42a8-4487-b25b-942305fca2b9)
 
 【 Fox-Rat V1.0 functionality 】
 
